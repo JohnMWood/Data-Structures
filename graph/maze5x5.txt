@@ -1,0 +1,5 @@
+5 5
+a1 a2   a2 b2    b2 b1    
+a2 a3   a3 b3    b3 c3    c3 c2    c2 c1    c1 d1    d1 e1    e1 e2    e2 e3    e3 d3    d3 d2    
+a3 a4   a4 b4    b4 b5    b5 c5    c5 c4    c4 d4    d4 e4    e4 e5    e5 d5    
+a4 a5   
